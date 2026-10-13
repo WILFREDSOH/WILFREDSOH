@@ -3,7 +3,7 @@
 -  I’m currently learning Machine leaning; spécialisation en réseaux et sécurité informatique, Data Science
 -  I’m looking to collaborate on with mon entourage, des grand frère et pourquoi pas être dans un réseaux des grands
 -  How to reach me : contacter moi à l'addresse wfotsing095@gmail.com
--  Pronouns: Wilfred_2.0
+-  Pronouns: RootVector
 -  Fun fact: ...Toujours heureux d'apprendre près des autres 
 
 <!---
